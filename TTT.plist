@@ -35,8 +35,9 @@
 				<key>title</key>
 				<string>淘啦1.0在线安装</string>
 				<key>releaseNotes</key>
-				<string>淘头条1.0</string>
+				<string>淘啦1.0</string>
 				<key>bundle-identifier</key>
+				<string>com.twl.tl</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
